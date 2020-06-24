@@ -1,0 +1,7 @@
+max 1300
+gid 1200
+ana 9001
+ane 9823
+lol 3453
+joe 1232
+leo 4200
